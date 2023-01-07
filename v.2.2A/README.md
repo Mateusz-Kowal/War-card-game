@@ -2,7 +2,7 @@
 
 ## Installation
 
-Simply download the .exe file from repository.
+Simply download the .cpp file from repository and create executable version in your code editor.
 
 ## Usage
 
